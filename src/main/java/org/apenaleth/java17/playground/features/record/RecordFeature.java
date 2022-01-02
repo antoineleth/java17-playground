@@ -1,4 +1,4 @@
-package org.apenaleth.java17.playground.features;
+package org.apenaleth.java17.playground.features.record;
 
 public class RecordFeature {
 
