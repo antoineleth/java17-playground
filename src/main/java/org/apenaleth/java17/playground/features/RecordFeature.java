@@ -27,8 +27,8 @@ public class RecordFeature {
      */
     public static void createJaneDoe() {
 
-        var jhonDoe = new PersonRecord("Jane Doe");
-        System.out.println(String.format("Hi, my name is %s and I'm %s years old.", jhonDoe.name(), jhonDoe.age()));
+        var janeDoe = new PersonRecord("Jane Doe");
+        System.out.println(String.format("Hi, my name is %s and I'm %s years old.", janeDoe.name(), janeDoe.age()));
 
     }
 }
